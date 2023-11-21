@@ -1,4 +1,9 @@
-﻿using System.Collections;
+/*Darion Jeffries
+ * Prototype 4
+ * Controls enemy movement
+ * 
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
